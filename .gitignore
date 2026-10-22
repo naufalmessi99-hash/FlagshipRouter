@@ -101,3 +101,5 @@ flagshiprouter-*
 .start-dev.ps1
 start-dev-silent.cjs
 debug.log
+.prisma-composer/
+.alchemy/
