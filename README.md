@@ -7,7 +7,7 @@
 - **One place to rename.** Product name, CLI command, data folder, the prefix your tools show on models, and the provider policy all live in [`brand.json`](brand.json).
 - **Starts with one command.** Running `flagshiprouter` starts the server and opens the browser UI.
 
-## Quick start
+## Quick start dada's
 
 Requires Node.js 20.9 or newer (22 recommended).
 
