@@ -65,7 +65,7 @@
     "@prisma/composer": "^0.32.0",
     "@prisma/composer-prisma-cloud": "^0.32.0",
     "@tailwindcss/postcss": "^4.1.18",
-    "effect": "4.0.3",
+    "effect": "4.0.0-rc.115",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "postcss": "^8.5.6",
