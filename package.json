@@ -30,7 +30,7 @@
     "bcryptjs": "^3.0.3",
     "chalk": "^5.6.2",
     "confbox": "^0.2.4",
-    "effect": "4.0.0-rc.115",
+    "effect": "4.0.3",
     "enquirer": "^2.4.1",
     "express": "^5.2.1",
     "http-proxy-middleware": "^3.0.5",
@@ -65,7 +65,7 @@
     "@prisma/composer": "^0.32.0",
     "@prisma/composer-prisma-cloud": "^0.32.0",
     "@tailwindcss/postcss": "^4.1.18",
-    "effect": "4.0.0-rc.115",
+    "effect": "4.0.3",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "postcss": "^8.5.6",
@@ -73,14 +73,14 @@
     "tailwindcss": "^4"
   },
   "overrides": {
-    "@effect/platform-bun": "4.0.0-rc.115",
-    "@effect/platform-node": "4.0.0-rc.115",
-    "@effect/platform-node-shared": "4.0.0-rc.115",
-    "@effect/sql-d1": "4.0.0-rc.115",
-    "@effect/sql-mysql2": "4.0.0-rc.115",
-    "@effect/sql-pg": "4.0.0-rc.115",
-    "@effect/sql-sqlite-do": "4.0.0-rc.115",
-    "@effect/vitest": "4.0.0-rc.115",
-    "effect": "4.0.0-rc.115"
+    "@effect/platform-bun": "4.0.3",
+    "@effect/platform-node": "4.0.3",
+    "@effect/platform-node-shared": "4.0.3",
+    "@effect/sql-d1": "4.0.3",
+    "@effect/sql-mysql2": "4.0.3",
+    "@effect/sql-pg": "4.0.3",
+    "@effect/sql-sqlite-do": "4.0.3",
+    "@effect/vitest": "4.0.3",
+    "effect": "4.0.3"
   }
 }
